@@ -24,7 +24,7 @@ I build **Telegram bots** and **Persian-first (RTL) web apps** that solve real p
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 [DaneshRah](https://github.com/MatinIsapoor/DaneshRah)
+#### 📚 [DaneshRah](https://github.com/Persianix/DaneshRah)
 
 A Persian-language guide to the **practical side of studying abroad** — SIM cards, banking, deposits, housing, residence permits, health insurance.
 
@@ -35,7 +35,7 @@ A Persian-language guide to the **practical side of studying abroad** — SIM ca
 </td>
 <td width="50%" valign="top">
 
-#### 💼 [FreelanceYar](https://github.com/MatinIsapoor/FreelanceYar)
+#### 💼 [FreelanceYar](https://github.com/Persianix/FreelanceYar)
 
 A Persian-first guide for Iranians starting and growing a **freelancing career** — platforms, profiles, pricing, getting paid in USD, tools and real stories.
 
@@ -48,7 +48,7 @@ A Persian-first guide for Iranians starting and growing a **freelancing career**
 <tr>
 <td width="50%" valign="top">
 
-#### 🎬 [MTN-downloader](https://github.com/MatinIsapoor/MTN-downloader)
+#### 🎬 [MTN-downloader](https://github.com/Persianix/MTN-downloader)
 
 A Telegram bot that **downloads videos** from TikTok, YouTube, Instagram, X and Pinterest — with `yt-dlp` first and multi-provider fallbacks when an engine is walled.
 
@@ -59,7 +59,7 @@ A Telegram bot that **downloads videos** from TikTok, YouTube, Instagram, X and 
 </td>
 <td width="50%" valign="top">
 
-#### 🔗 [LinklyBot](https://github.com/MatinIsapoor/LinklyBot)
+#### 🔗 [LinklyBot](https://github.com/Persianix/LinklyBot)
 
 A production-ready Telegram bot that **shortens links, tracks clicks** and organises them by category with optional expiry dates.
 
