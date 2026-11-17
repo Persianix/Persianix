@@ -6,8 +6,6 @@
 
 I build **Telegram bots** and **Persian-first (RTL) web apps** that solve real problems for Iranian users.
 
-<sub>🇮🇷 باهوش، صبور، و دقیق — کدی که واقعاً کار می‌کند.</sub>
-
 <br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Persianix-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Persianix)
